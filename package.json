@@ -1,10 +1,10 @@
 {
   "name": "vue-ys-assembly",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "基于 Vue 的颜色选择器",
   "main": "lib/vcolorpicker.umd.min.js",
   "keyword": "vcolorpicker colorpicker color-picker",
-  "homepage": "https://github.com/zuley/vue-color-picker",
+  "homepage": "https://github.com/azqasxws/vue-ys-assembly",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
